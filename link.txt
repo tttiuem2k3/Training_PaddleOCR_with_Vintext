@@ -1,0 +1,3 @@
+*Data - Vintext(tải ở dạng Original): https://github.com/VinAIResearch/dict-guided
+*Tham khảo về PaddleOCR: https://www.paddleocr.ai/latest/en/version3.x/pipeline_usage/PP-StructureV3.html#2-quick-start
+ 
