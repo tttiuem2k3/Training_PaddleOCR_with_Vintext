@@ -2,6 +2,7 @@
 
 > Notebook thực nghiệm huấn luyện và đánh giá **PaddleOCR** trên dữ liệu chữ tiếng Việt từ VinText, phục vụ bài toán OCR tài liệu/ảnh tiếng Việt.
 
+<p align="center">\n  <img src="./docs/images/readme_overview.svg" width="100%" alt="Training PaddleOCR with VinText overview">\n</p>\n
 ---
 
 ## 📌 Giới thiệu
